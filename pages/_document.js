@@ -12,7 +12,8 @@ class MyDocument extends Document {
     integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
     crossorigin="anonymous"/>
           <link rel="manifest" href="/manifest.json" />
-          <link rel="apple-touch-icon" href="/icon.png"></link>
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"></link>
+          <link rel="apple-touch-icon" href="/icon-384x384.png"></link>
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"></link>
           
         </Head>
